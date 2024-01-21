@@ -1,8 +1,6 @@
-package com.example.demo;
+package com.example.demo.Storage;
 
-import io.opencensus.resource.Resource;
 import lombok.RequiredArgsConstructor;
-import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
@@ -13,7 +11,6 @@ import java.io.IOException;
 public class FileController {
 
     private final StorageProperties storageProperties;
-    private final ResourceLoader resourceLoader;
 
     @GetMapping("/upload")
     public void fileUpload() throws IOException {

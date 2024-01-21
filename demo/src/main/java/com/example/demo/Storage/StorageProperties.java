@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.Storage;
 
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Value;
