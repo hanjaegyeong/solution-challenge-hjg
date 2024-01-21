@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "solution-challenge-410406",
+  "private_key_id": "a9575f78c54ac12c0958bc02cb28c1fbf930a3ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqWbLZQzkPjaZO\nSkyfY+ujx+YTUKhw66DTcIrUKHdjtoWyqx69GjU6Y46c5eL6PuEbwOIY87Pd+M08\nFCaoaHs4I73LsdMl+aJ/FfCDRJhL9uO5SygsWaX7rEQQjSB3v9XCCt7hK9X4WRSv\ng0GFHTMkzxlz7bRAukHKUyMW6N6/dQH0XRLRtJMa5DW+O475QpS/TvEr8r+l6d6+\nryElvqU2MsiCbgSxtufCTLHUTmF02W0X/fdOBonIaZ+Nm1QqmHGl5v7TliMYl2kd\nprxZuidSkggi3ZJuU2BNEL8hjfoZNuKuJJ+pk3cBjiPpw9cW7DaKdukHoaBXOP3F\nP0PH+RqZAgMBAAECggEASeuTgti7TYb7iBSQrEepLJBlQ7Nn7FwrFSVMcOTAbfn5\niT7dH1TcjSI/c9EDzfB0MV1hH0+9GNDKikv6PHDeK03DIb1f8SYiv7/u9p9Q8QHI\n7pJw89HRB2VIwd/jm2MYqFOcRJyHhHVvVvv/dfpmQ45ErrwS0FWij9/Epb/WTMCM\ni0lCYhCubkk34ve/RjGJZzhtYungz0Wtu3ZqxxEgAO0JlGx3rqZ+CmglLpU53Kgj\nQbajN1xGo2Xf0asU0V2pfDb+zhbfeQuSw6QZHF1tXdHv8LBMyTh35+Uwps7lel8j\nTSC1AJISRh8BNOXzZ2ZArbSI8MXY3jUtJ/8+aBg7ywKBgQDpHF+BE8CZGje/0KTl\njJqXd7PqPQAEwfrnUQqYRrB+WPaSpsdpxa64yI5oMwd5rLko5GEdZ9MGwuAidz1N\nVbIguXEzCa0qbFWPsQ0qlI5Fvg3ayStRgBPNcuifNIFc/SSfQGDygvR9G0M3ED4G\nUJKjftfokey7X83hxNoPCfF7YwKBgQC7E7zd4/enZIVtTFBp2D1I4lqb0SLUX5MM\nWzytg3wJgjQLrheDymUV8A9jpwHrg5qNoZy1MIeiZ7Yi0O18PBIGrWEvod9hGryl\nTAFb3N5XZQBsW6AC9P9ZPKLutUzZOxYWb1pl8GEnFArPk5J6e+83amZliyxrjHGz\nMhGQ35540wKBgHb3Ge5fzDzWWnkz29OibAq89j6mnunOrWN7wnJwMQZqFHxHTSG3\n1zFKeRLIaBo6gcxSsRU2tUWQEp7ER669+0gkG5c2av9phkjszJFcezcwhRWQ8OCJ\nApIpAHqvaw2vyw7S5icdmfR3A1iIm37Rg+SYiUuRnUUK4aFEuxxNsMWNAoGAejSD\njMNNVPjSPDq80Nej+Qd8PwsX4HlqeojjE0mv7hoy22pnC/1bmUAPHX7MP0fh3yEy\nWB4SjCGJlia67Avljp0VvmLUo/8uOiBzRsn6KEbfRul3llbqsyVsHdkrEUCKxi8J\nc0vaeweZpE13QzHQa3fC2hRW+Q5ue6t6VBPv1mcCgYBBzsMSB+QWgY/xqXWfXjad\nQNENlCdnAqIoNuSPpAwrksShvB9nxbOVNzB65dIPMKNn4bFBzOOA5wDMTUYw4qo3\nJjThTcBHQMYRdbHoO9J4Ey7RTqWNO0vYjtGFqfGgsgbP//Qn4L4S7bR2ncji1KWj\nvfUJZ7ejrhgWr3i7AhAtkQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "stack-overflow-challenge@solution-challenge-410406.iam.gserviceaccount.com",
+  "client_id": "105724357420595098863",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stack-overflow-challenge%40solution-challenge-410406.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
